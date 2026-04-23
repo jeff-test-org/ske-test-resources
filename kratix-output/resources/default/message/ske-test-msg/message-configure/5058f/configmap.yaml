@@ -1,0 +1,7 @@
+apiVersion: v1
+data:
+  message: hello from ske
+kind: ConfigMap
+metadata:
+  name: ske-test-msg
+  namespace: default
