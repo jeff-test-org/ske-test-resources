@@ -4,4 +4,4 @@ metadata:
   name: 'ske-test-msg'
   namespace: 'default'
 spec:
-  message: Hey!  It's Jeff updating the message to force a change in SKE.
+  message: This is an update on a Friday afternoon!
