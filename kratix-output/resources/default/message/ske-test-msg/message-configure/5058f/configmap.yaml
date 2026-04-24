@@ -1,7 +1,0 @@
-apiVersion: v1
-data:
-  message: Hey!  It's Jeff updating the message to force a change in SKE.
-kind: ConfigMap
-metadata:
-  name: ske-test-msg
-  namespace: default
