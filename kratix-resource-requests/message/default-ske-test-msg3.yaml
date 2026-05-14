@@ -1,0 +1,7 @@
+apiVersion: demo.cortex.io/v1alpha1
+kind: Message
+metadata:
+  name: 'ske-test-msg3'
+  namespace: 'default'
+spec:
+  message: '12345'
